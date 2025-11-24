@@ -53,7 +53,7 @@ The allocator supports:
 
 ---
 
-## 🔧 Technical Highlights (For Recruiters)
+## 🔧 Technical Highlights
 
 This project demonstrates strong low-level system knowledge and dynamic memory reasoning:
 
