@@ -153,5 +153,5 @@ Total allocated memory: 32 bytes
 ## 👨‍💻 Author
 
 **Mihai-Alexandru Crăciun**  
-LinkedIn  
-GitHub: https://github.com/mihaicraciun1902
+* [LinkedIn](https://www.linkedin.com/in/craciunmihai1902/)
+* [GitHub](https://github.com/mihaicraciun1902)
